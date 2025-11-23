@@ -20,17 +20,18 @@ JSP & Servlet API
 MySQL Database
 Eclipse / IntelliJ / NetBeans IDE
 
-▶️ How to Run the Project
-Install JDK and Apache Tomcat
-Clone the repository:
-git clone https://github.com/ganesh-badar/advance_java.git
-
-
-Open the project in your preferred IDE
-Configure Tomcat Server
-Set database configuration (if JDBC project)
-Run and open the browser:
-http://localhost:8080/yourprojectname
+▶️ How to Run the Java Programs
+1️⃣ Install JDK (Java Development Kit)
+2️⃣ Clone the repository:
+   git clone https://github.com/ganesh-badar/Advance_java.git
+3️⃣ Open the project in any IDE of your choice:
+   • Eclipse
+   • IntelliJ IDEA
+   • NetBeans
+   • VS Code
+4️⃣ Navigate to the specific Java file you want to run.
+5️⃣ Right-click on the file and select:
+   Run As → Java Application
 
 ⭐ Features
 Beginner-friendly and well-commented code
