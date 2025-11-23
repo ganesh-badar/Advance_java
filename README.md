@@ -23,7 +23,7 @@ Eclipse / IntelliJ / NetBeans IDE
 ▶️ How to Run the Project
 Install JDK and Apache Tomcat
 Clone the repository:
-git clone https://github.com/yourusername/advance_java.git
+git clone https://github.com/ganesh-badar/advance_java.git
 
 
 Open the project in your preferred IDE
