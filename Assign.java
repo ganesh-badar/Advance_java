@@ -1,3 +1,4 @@
+//a java code which accept emp_detail from user and inser into table
 package JDBC;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -43,4 +44,5 @@ public class Assign {
 	}
 
 }
+
 
