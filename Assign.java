@@ -10,7 +10,7 @@ public class Assign {
 	public static void main(String[] args) {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/company?useSSL=false","root","Ganesh@1351");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/company?useSSL=false","root","YOUR_PASSWORD");
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Enter id , First_Name , Last_Name , salary and joinin_Date(yyyy-mm-dd) ");
 			int id = sc.nextInt();
@@ -43,3 +43,4 @@ public class Assign {
 	}
 
 }
+
