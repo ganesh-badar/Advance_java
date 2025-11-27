@@ -13,7 +13,7 @@ public class Demo9 {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			Connection con = DriverManager.getConnection(
-					"jdbc:mysql://localhost:3306/salesstore?useSSL=false","root","Ganesh@1351");
+					"jdbc:mysql://localhost:3306/salesstore?useSSL=false","root","YOUR_PASSWORD");
 
 			
 
@@ -38,3 +38,4 @@ public class Demo9 {
 	}
 
 }
+
