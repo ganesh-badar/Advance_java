@@ -16,7 +16,7 @@ public class Demo7 {
 		{
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			Connection con=DriverManager.getConnection
-			("jdbc:mysql://localhost:3306/company?useSSL=false", "root","Ganesh@1351");
+			("jdbc:mysql://localhost:3306/company?useSSL=false", "root","YOUR_PASSWORD");
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter emp id=");
 			int eid=sc.nextInt();
@@ -35,3 +35,4 @@ public class Demo7 {
 	}
 
 }
+
